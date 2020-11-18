@@ -41,11 +41,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kubilay Caglayan**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Website: [kubilay](https://kubilaycaglayan.com)
+- Github: [@kubilaycaglayan](https://github.com/kubilaycaglayan)
+- Twitter: [@kbcaglayan](https://twitter.com/kbcaglayan)
+- Linkedin: [linkedin](https://linkedin.com/in/kubilaycaglayan)
 
 👤 **Author2**
 
